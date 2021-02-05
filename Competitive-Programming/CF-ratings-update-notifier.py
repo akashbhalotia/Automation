@@ -11,7 +11,7 @@
     of the account with which you would like to send an email. Also
     asks for the email address of the account in which you would like
     to receive the update notification email. Even if both are same,
-    you have to enter it once again.
+    you'll still have to enter it again.
 
     It shall fail to work if you have no previous contests in your
     contests page. This too is trivial to fix, but I'm feeling lazy
